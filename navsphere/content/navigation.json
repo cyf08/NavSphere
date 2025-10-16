@@ -107,14 +107,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1760588334813",
-          "title": "‌BibExcel",
-          "href": "https://bibliometrie.univie.ac.at/bibexcel/",
-          "description": "免费文献计量软件，支持引文分析、书目耦合及数据导出（兼容Pajek/NetDraw）。",
-          "icon": "/assets/favicon_1760588342363.png",
-          "enabled": true
-        },
-        {
           "id": "1760588393882",
           "title": "NETDRAW",
           "href": "https://sites.google.com/site/netdrawsoftware/welcome",
@@ -194,6 +186,14 @@
               "href": "https://citespace.podia.com/",
               "description": "功能：文献计量与可视化分析工具，支持CNKI、WOS等数据库的共现网络、关键词聚类及突现检测。\nFunction: A bibliometric and visualization analysis tool, supporting co-occurrence networks, keyword clustering and emergent detection for databases such as CNKI and WOS.\n下载：需官网下载（Java环境）\nDownload: Available for download from the official website (requires Java environment) ",
               "icon": "/assets/favicon_1760588309756.png",
+              "enabled": true
+            },
+            {
+              "id": "1760588334813",
+              "title": "‌BibExcel",
+              "href": "https://bibliometrie.univie.ac.at/bibexcel/",
+              "description": "免费文献计量软件，支持引文分析、书目耦合及数据导出（兼容Pajek/NetDraw）。",
+              "icon": "/assets/favicon_1760588342363.png",
               "enabled": true
             }
           ]
