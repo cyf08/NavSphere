@@ -388,7 +388,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "2cb9253f-d15e-44df-adce-bb99138aecbc",
+          "title": "文生图/视频 Art-to-Image/Video",
+          "icon": "Image",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
