@@ -1423,6 +1423,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1760590562420",
+      "title": "设计策略 Design Strategy",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
