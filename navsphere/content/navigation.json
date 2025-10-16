@@ -22,6 +22,14 @@
           "description": "深度搜索与分析，生成专业报告，支持多领域文献综述。\nConducts deep search and analysis, generates professional reports, and supports literature reviews across multiple fields.",
           "icon": "/assets/favicon_1760587268222.png",
           "enabled": true
+        },
+        {
+          "id": "1760587728348",
+          "title": "Scopus AI",
+          "href": "https://www.scopus.com/",
+          "description": "科研检索工具，提供文献来源和指标，支持可信数据溯源。\nA research search tool, offering literature sources and indicators, supporting traceability of reliable data.",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scopus.com",
+          "enabled": true
         }
       ],
       "subCategories": []
