@@ -1230,6 +1230,14 @@
           "description": "提供论文摘要和关键点总结，支持文献快速筛选。",
           "icon": "/assets/favicon_1760587203952.ico",
           "enabled": true
+        },
+        {
+          "id": "1760587260852",
+          "title": "Perplexity",
+          "href": "https://www.perplexity.ai",
+          "description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
+          "icon": "/assets/favicon_1760587268222.png",
+          "enabled": true
         }
       ],
       "subCategories": []
