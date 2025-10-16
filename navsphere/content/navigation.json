@@ -368,7 +368,16 @@
           "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760591080190",
+              "title": "AI建筑规范查询 AI building specification query",
+              "href": "https://www.jianzhuxuezhang.com/knowledge",
+              "description": "访问 www.jianzhuxuezhang.com",
+              "icon": "/assets/favicon_1760591083488.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
