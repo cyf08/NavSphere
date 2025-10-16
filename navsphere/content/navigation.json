@@ -419,6 +419,14 @@
               "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
               "icon": "/assets/favicon_1760591253311.png",
               "enabled": true
+            },
+            {
+              "id": "1760591268590",
+              "title": "LiblibAI",
+              "href": "https://www.liblib.art/",
+              "description": "AI绘画原创模型分享社区，10万+模型免费下载;原汁原味的webUI、comfyUI，在线AI绘图工具免费使用;还可在线进行模型训练。欢迎每一位创作者加入，共同探索AI绘画",
+              "icon": "/assets/favicon_1760591271575.png",
+              "enabled": true
             }
           ]
         }
