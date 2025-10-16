@@ -395,7 +395,16 @@
           "icon": "Image",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760591227367",
+              "title": "可灵/Keling",
+              "href": "https://app.klingai.com/cn/",
+              "description": "Create professional videos and images with Kling AI",
+              "icon": "/assets/favicon_1760591230680.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
