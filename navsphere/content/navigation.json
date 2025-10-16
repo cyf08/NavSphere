@@ -107,14 +107,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1760588223829",
-          "title": "‌拓尔思安拓知识图谱平台‌ Tusix Anzao Knowledge Graph Platform",
-          "href": "https://www.trs.com.cn/cpfw/rgzn/aiptfw/at_zstppt_/",
-          "description": "支持海量多源异构数据融合与知识化处理，提供语义检索、智能问答、关系分析及地理空间分析功能\nSupports the fusion and knowledgeization processing of massive multi-source heterogeneous data, providing semantic search, intelligent question answering, relationship analysis, and geographic space analysis functions",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.trs.com.cn",
-          "enabled": true
-        },
-        {
           "id": "1760588260480",
           "title": "‌NRD Studio",
           "href": "https://nrdstudio.cn/",
@@ -185,6 +177,14 @@
               "href": "https://www.plantdata.cn/",
               "description": "提供千亿级知识存储能力的一站式知识图谱运营管理平台，支持时空知识存储、多模态数据存储及全生命周期管理（建模、编辑、融合、统计等）\nA one-stop knowledge graph operation and management platform with a billion-level knowledge storage capacity, supporting temporal knowledge storage, multi-modal data storage, and full lifecycle management (modeling, editing, integration, statistics, etc.)",
               "icon": "/assets/favicon_1760588202376.png",
+              "enabled": true
+            },
+            {
+              "id": "1760588223829",
+              "title": "‌拓尔思安拓知识图谱平台‌ Tusix Anzao Knowledge Graph Platform",
+              "href": "https://www.trs.com.cn/cpfw/rgzn/aiptfw/at_zstppt_/",
+              "description": "支持海量多源异构数据融合与知识化处理，提供语义检索、智能问答、关系分析及地理空间分析功能\nSupports the fusion and knowledgeization processing of massive multi-source heterogeneous data, providing semantic search, intelligent question answering, relationship analysis, and geographic space analysis functions",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.trs.com.cn",
               "enabled": true
             }
           ]
