@@ -427,6 +427,14 @@
               "description": "AI绘画原创模型分享社区，10万+模型免费下载;原汁原味的webUI、comfyUI，在线AI绘图工具免费使用;还可在线进行模型训练。欢迎每一位创作者加入，共同探索AI绘画",
               "icon": "/assets/favicon_1760591271575.png",
               "enabled": true
+            },
+            {
+              "id": "1760591281885",
+              "title": "Midjourney",
+              "href": "https://www.midjourney.com/home",
+              "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+              "icon": "/assets/favicon_1760591283733.png",
+              "enabled": true
             }
           ]
         }
