@@ -179,7 +179,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "a2d7516a-969f-4660-8dd7-bf978b924dd6",
+          "title": "‌通用知识图谱平台 General Knowledge Graph Platform",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
