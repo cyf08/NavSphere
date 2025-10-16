@@ -88,7 +88,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "7c0f6009-f7b0-4864-bde0-572739922e88",
+          "title": "文献综述 Literature Review",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1760588131959",
