@@ -270,6 +270,14 @@
               "description": "访问 www.gooood.cn",
               "icon": "/assets/favicon_1760590721366.png",
               "enabled": true
+            },
+            {
+              "id": "1760590742589",
+              "title": "Archiposition",
+              "href": "https://www.archiposition.com/",
+              "description": "访问 www.archiposition.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.archiposition.com",
+              "enabled": true
             }
           ]
         }
