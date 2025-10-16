@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1760587260852",
-          "title": "Perplexity Deep Research",
-          "href": "https://www.perplexity.ai",
-          "description": "深度搜索与分析，生成专业报告，支持多领域文献综述。\nConducts deep search and analysis, generates professional reports, and supports literature reviews across multiple fields.",
-          "icon": "/assets/favicon_1760587268222.png",
-          "enabled": true
-        },
-        {
           "id": "1760587728348",
           "title": "Scopus AI",
           "href": "https://www.scopus.com/",
@@ -94,6 +86,14 @@
               "href": "https://scholar.google.com/",
               "description": "提供论文摘要和关键点总结，支持文献快速筛选。\nProvides abstracts and key points summaries, facilitating rapid literature screening",
               "icon": "/assets/favicon_1760587203952.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760587260852",
+              "title": "Perplexity Deep Research",
+              "href": "https://www.perplexity.ai",
+              "description": "深度搜索与分析，生成专业报告，支持多领域文献综述。\nConducts deep search and analysis, generates professional reports, and supports literature reviews across multiple fields.",
+              "icon": "/assets/favicon_1760587268222.png",
               "enabled": true
             }
           ]
