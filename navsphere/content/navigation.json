@@ -1,6 +1,32 @@
 {
   "navigationItems": [
     {
+      "id": "1760587101043",
+      "title": "文献综述",
+      "icon": "Book",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1760587197095",
+          "title": "Google 学术搜索",
+          "href": "https://scholar.google.com/",
+          "description": "提供论文摘要和关键点总结，支持文献快速筛选。",
+          "icon": "/assets/favicon_1760587203952.ico",
+          "enabled": true
+        },
+        {
+          "id": "1760587260852",
+          "title": "Perplexity",
+          "href": "https://www.perplexity.ai",
+          "description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
+          "icon": "/assets/favicon_1760587268222.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1215,32 +1241,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1760587101043",
-      "title": "文献综述",
-      "icon": "Book",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1760587197095",
-          "title": "Google 学术搜索",
-          "href": "https://scholar.google.com/",
-          "description": "提供论文摘要和关键点总结，支持文献快速筛选。",
-          "icon": "/assets/favicon_1760587203952.ico",
-          "enabled": true
-        },
-        {
-          "id": "1760587260852",
-          "title": "Perplexity",
-          "href": "https://www.perplexity.ai",
-          "description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
-          "icon": "/assets/favicon_1760587268222.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
