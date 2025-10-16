@@ -195,6 +195,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "9aab7413-e3c5-4de8-9800-50163a93a316",
+          "title": "‌社会网络与复杂网络分析 ‌Social Network and Complex Network Analysis",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
