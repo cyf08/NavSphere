@@ -209,6 +209,15 @@
       ]
     },
     {
+      "id": "1760590562420",
+      "title": "设计策略 Design Strategy",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1423,15 +1432,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1760590562420",
-      "title": "设计策略 Design Strategy",
-      "icon": "Brain",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
