@@ -1222,7 +1222,16 @@
       "icon": "Book",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1760587197095",
+          "title": "Google 学术搜索",
+          "href": "https://scholar.google.com/",
+          "description": "提供论文摘要和关键点总结，支持文献快速筛选。",
+          "icon": "/assets/favicon_1760587203952.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
