@@ -403,6 +403,14 @@
               "description": "Create professional videos and images with Kling AI",
               "icon": "/assets/favicon_1760591230680.ico",
               "enabled": true
+            },
+            {
+              "id": "1760591238375",
+              "title": "即梦/Jimeng",
+              "href": "https://jimeng.jianying.com/",
+              "description": "访问 jimeng.jianying.com",
+              "icon": "/assets/favicon_1760591241624.png",
+              "enabled": true
             }
           ]
         }
