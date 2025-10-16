@@ -222,7 +222,16 @@
           "icon": "Brain",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760590626561",
+              "title": "TopoExport",
+              "href": "https://app.topoexport.com/",
+              "description": "",
+              "icon": "/assets/favicon_1760590630357.svg",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
