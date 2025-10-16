@@ -78,6 +78,14 @@
           "description": "AI文献检索与写作助手，支持PDF关键见解提取\nAI literature search and writing assistant, supporting extraction of key insights from PDFs",
           "icon": "/assets/favicon_1760587981659.png",
           "enabled": true
+        },
+        {
+          "id": "1760588052350",
+          "title": "Sourcely‌",
+          "href": "https://www.sourcely.net/",
+          "description": "自动搜索、总结和添加学术来源\nAutomatically searches, summarizes, and adds academic sources",
+          "icon": "/assets/favicon_1760588060278.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
