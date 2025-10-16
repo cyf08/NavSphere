@@ -246,6 +246,14 @@
               "description": "Design, analyse and create code-compliant buildings – all within the same day.",
               "icon": "/assets/favicon_1760590675319.png",
               "enabled": true
+            },
+            {
+              "id": "1760590692782",
+              "title": "WaytoAGI-通往AGI之路，最好的 AI 知识库和工具站",
+              "href": "https://www.waytoagi.com/zh",
+              "description": "WaytoAGI（通往 AGI 之路）是最大最全面的 AI 知识库，汇聚上千个人工智能网站和工具，汇集最新的 AI 工具、GPT 应用、AI 智能体和行业资讯。无论您是 AI 爱好者、研究者还是开发者，WaytoAGI 助力您在通往 AGI 的旅途中开启智能创新的未来。",
+              "icon": "/assets/favicon_1760590696872.ico",
+              "enabled": true
             }
           ]
         }
