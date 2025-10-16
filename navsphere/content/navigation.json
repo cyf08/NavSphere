@@ -318,6 +318,14 @@
               "description": "访问 www.behance.net",
               "icon": "/assets/favicon_1760590820366.png",
               "enabled": true
+            },
+            {
+              "id": "1760590826494",
+              "title": "土木在线/ Civil Engineering Online",
+              "href": "https://www.co188.com/",
+              "description": "土木在线/ Civil Engineering Online",
+              "icon": "/assets/favicon_1760590830038.png",
+              "enabled": true
             }
           ]
         }
