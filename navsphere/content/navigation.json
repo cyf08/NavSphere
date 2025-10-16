@@ -136,6 +136,14 @@
           "description": "免费文献计量软件，支持引文分析、书目耦合及数据导出（兼容Pajek/NetDraw）。",
           "icon": "/assets/favicon_1760588342363.png",
           "enabled": true
+        },
+        {
+          "id": "1760588393882",
+          "title": "NETDRAW",
+          "href": "https://sites.google.com/site/netdrawsoftware/welcome",
+          "description": "功能：社会网络分析软件，提供中心性分析、子群识别、角色分析及矩阵代数计算。\nFunction: Social network analysis software, providing centrality analysis, subgroup identification, role analysis and matrix algebra calculations.\n下载：需官网购买/试用\nDownload: Requires purchase/try-out through the official website. ‌",
+          "icon": "/assets/favicon_1760588452977.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
