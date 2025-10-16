@@ -215,7 +215,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "e54e3b98-3b62-4a63-a9a0-d14369492984",
+          "title": "设计灵感Design inspiration",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
