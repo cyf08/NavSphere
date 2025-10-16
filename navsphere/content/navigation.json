@@ -335,7 +335,16 @@
           "icon": "Palette",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760590877595",
+              "title": "Pinterest",
+              "href": "https://www.pinterest.com",
+              "description": "发现想要尝试的食谱、家居创意、时尚灵感及其他创意点子。",
+              "icon": "/assets/favicon_1760590879920.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
