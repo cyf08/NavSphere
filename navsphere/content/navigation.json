@@ -96,7 +96,16 @@
       "icon": "Network",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1760588194639",
+          "title": "Plantdata-KGMS",
+          "href": "https://www.plantdata.cn/",
+          "description": "提供千亿级知识存储能力的一站式知识图谱运营管理平台，支持时空知识存储、多模态数据存储及全生命周期管理（建模、编辑、融合、统计等）\nA one-stop knowledge graph operation and management platform with a billion-level knowledge storage capacity, supporting temporal knowledge storage, multi-modal data storage, and full lifecycle management (modeling, editing, integration, statistics, etc.)",
+          "icon": "/assets/favicon_1760588202376.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
