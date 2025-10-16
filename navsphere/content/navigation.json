@@ -262,6 +262,14 @@
               "description": "知末网-拥有近500万效果图作品,提供3d模型,su模型,材质贴图,cad图纸,软件/插件等素材下载.是帮助设计师提升工作效率,学习成长,开拓眼界的交流社区.",
               "icon": "/assets/favicon_1760590711551.svg",
               "enabled": true
+            },
+            {
+              "id": "1760590717792",
+              "title": "Gooood",
+              "href": " https://www.gooood.cn/",
+              "description": "访问 www.gooood.cn",
+              "icon": "/assets/favicon_1760590721366.png",
+              "enabled": true
             }
           ]
         }
