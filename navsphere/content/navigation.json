@@ -1305,6 +1305,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1760588131959",
+      "title": "知识图谱 Knowledge Graph",
+      "icon": "Network",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
