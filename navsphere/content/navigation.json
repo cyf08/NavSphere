@@ -328,6 +328,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "e488546c-7299-4789-b504-0c124d6f6320",
+          "title": "设计意象 Design concept/image",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
