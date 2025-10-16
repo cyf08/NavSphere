@@ -435,6 +435,14 @@
               "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
               "icon": "/assets/favicon_1760591283733.png",
               "enabled": true
+            },
+            {
+              "id": "1760591290670",
+              "title": "Civitai",
+              "href": "https://civitai.com/",
+              "description": "Explore thousands of high-quality Stable Diffusion &amp; Flux models, share your AI-generated art, and engage with a vibrant community of creators",
+              "icon": "/assets/favicon_1760591294972.ico",
+              "enabled": true
             }
           ]
         }
