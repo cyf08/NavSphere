@@ -238,6 +238,14 @@
               "description": "AIno is an AI GIS platform for location data analysis and map creation. Perform site analysis in minutes for urban planning and real estate projects.",
               "icon": "/assets/favicon_1760590643665.png",
               "enabled": true
+            },
+            {
+              "id": "1760590671963",
+              "title": "Spacio - Design code compliant buildings",
+              "href": "https://spacio.ai/",
+              "description": "Design, analyse and create code-compliant buildings – all within the same day.",
+              "icon": "/assets/favicon_1760590675319.png",
+              "enabled": true
             }
           ]
         }
