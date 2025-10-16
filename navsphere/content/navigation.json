@@ -120,6 +120,14 @@
           "description": "网页版云服务工具，支持动态数据扩展，适用于中小规模知识图谱的可视化构建与协作\nWeb-based cloud service tool, supporting dynamic data expansion, suitable for the visual construction and collaboration of small and medium-sized knowledge graphs",
           "icon": "/assets/favicon_1760588269633.png",
           "enabled": true
+        },
+        {
+          "id": "1760588282497",
+          "title": "CiteSpace",
+          "href": "https://citespace.podia.com/",
+          "description": "功能：文献计量与可视化分析工具，支持CNKI、WOS等数据库的共现网络、关键词聚类及突现检测。\nFunction: A bibliometric and visualization analysis tool, supporting co-occurrence networks, keyword clustering and emergent detection for databases such as CNKI and WOS.\n下载：需官网下载（Java环境）\nDownload: Available for download from the official website (requires Java environment) ",
+          "icon": "/assets/favicon_1760588309756.png",
+          "enabled": true
         }
       ],
       "subCategories": []
