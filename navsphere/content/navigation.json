@@ -112,6 +112,14 @@
           "description": "支持海量多源异构数据融合与知识化处理，提供语义检索、智能问答、关系分析及地理空间分析功能\nSupports the fusion and knowledgeization processing of massive multi-source heterogeneous data, providing semantic search, intelligent question answering, relationship analysis, and geographic space analysis functions",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.trs.com.cn",
           "enabled": true
+        },
+        {
+          "id": "1760588260480",
+          "title": "‌NRD Studio",
+          "href": "https://nrdstudio.cn/",
+          "description": "网页版云服务工具，支持动态数据扩展，适用于中小规模知识图谱的可视化构建与协作\nWeb-based cloud service tool, supporting dynamic data expansion, suitable for the visual construction and collaboration of small and medium-sized knowledge graphs",
+          "icon": "/assets/favicon_1760588269633.png",
+          "enabled": true
         }
       ],
       "subCategories": []
