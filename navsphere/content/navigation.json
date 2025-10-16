@@ -254,6 +254,14 @@
               "description": "WaytoAGI（通往 AGI 之路）是最大最全面的 AI 知识库，汇聚上千个人工智能网站和工具，汇集最新的 AI 工具、GPT 应用、AI 智能体和行业资讯。无论您是 AI 爱好者、研究者还是开发者，WaytoAGI 助力您在通往 AGI 的旅途中开启智能创新的未来。",
               "icon": "/assets/favicon_1760590696872.ico",
               "enabled": true
+            },
+            {
+              "id": "1760590707169",
+              "title": "知末网 - 下素材找灵感看案例 - 发现更好的设计",
+              "href": "https://www.znzmo.com/",
+              "description": "知末网-拥有近500万效果图作品,提供3d模型,su模型,材质贴图,cad图纸,软件/插件等素材下载.是帮助设计师提升工作效率,学习成长,开拓眼界的交流社区.",
+              "icon": "/assets/favicon_1760590711551.svg",
+              "enabled": true
             }
           ]
         }
