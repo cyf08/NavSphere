@@ -54,6 +54,14 @@
           "description": "构建文献引用网络，智能推荐相关研究\nBuilds a literature citation network, intelligently recommends related research",
           "icon": "/assets/favicon_1760587911342.png",
           "enabled": true
+        },
+        {
+          "id": "1760587928344",
+          "title": "Atlas.ti 10",
+          "href": "https://atlasti.com/",
+          "description": "定性数据分析，支持扎根理论等研究方法\nQualitative data analysis, supporting research methods such as grounded theory",
+          "icon": "/assets/favicon_1760587937896.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
