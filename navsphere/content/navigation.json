@@ -38,6 +38,14 @@
           "description": "基于学术共识的文献检索与总结\nLiterature search and summary based on academic consensus.",
           "icon": "/assets/favicon_1760587777797.png",
           "enabled": true
+        },
+        {
+          "id": "1760587798717",
+          "title": "Litmaps Pro",
+          "href": "https://www.litmaps.com/",
+          "description": "文献网络可视化，发现研究空白与引用路径\nVisualizes literature networks, identifies research gaps and citation paths",
+          "icon": "/assets/favicon_1760587807307.png",
+          "enabled": true
         }
       ],
       "subCategories": []
