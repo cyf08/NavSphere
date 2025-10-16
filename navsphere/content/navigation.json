@@ -294,6 +294,14 @@
               "description": "访问 www.jianbiaoku.com",
               "icon": "/assets/favicon_1760590786493.png",
               "enabled": true
+            },
+            {
+              "id": "1760590795850",
+              "title": "Pinterest",
+              "href": "https://www.pinterest.com/",
+              "description": "发现想要尝试的食谱、家居创意、时尚灵感及其他创意点子。",
+              "icon": "/assets/favicon_1760590798329.png",
+              "enabled": true
             }
           ]
         }
