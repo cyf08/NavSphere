@@ -70,6 +70,14 @@
           "description": "开源文献管理，支持引用、笔记及插件扩展\nOpen-source literature management, supporting citations, notes, and plugin extensions",
           "icon": "/assets/favicon_1760587959461.png",
           "enabled": true
+        },
+        {
+          "id": "1760587979592",
+          "title": "SciSpace‌",
+          "href": "https://www.scispace.com/",
+          "description": "AI文献检索与写作助手，支持PDF关键见解提取\nAI literature search and writing assistant, supporting extraction of key insights from PDFs",
+          "icon": "/assets/favicon_1760587981659.png",
+          "enabled": true
         }
       ],
       "subCategories": []
