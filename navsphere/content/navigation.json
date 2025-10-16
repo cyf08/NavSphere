@@ -278,6 +278,14 @@
               "description": "访问 www.archiposition.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.archiposition.com",
               "enabled": true
+            },
+            {
+              "id": "1760590773565",
+              "title": "Archdaily",
+              "href": "https://www.archdaily.cn/cn",
+              "description": "访问 www.archdaily.cn",
+              "icon": "/assets/favicon_1760590777403.png",
+              "enabled": true
             }
           ]
         }
