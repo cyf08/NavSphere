@@ -286,6 +286,14 @@
               "description": "访问 www.archdaily.cn",
               "icon": "/assets/favicon_1760590777403.png",
               "enabled": true
+            },
+            {
+              "id": "1760590783124",
+              "title": "Jianbiaoku",
+              "href": "http://www.jianbiaoku.com/",
+              "description": "访问 www.jianbiaoku.com",
+              "icon": "/assets/favicon_1760590786493.png",
+              "enabled": true
             }
           ]
         }
