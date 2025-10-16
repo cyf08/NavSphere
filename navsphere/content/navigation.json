@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1760587950131",
-          "title": "Zotero 2025",
-          "href": "https://www.zotero.org/",
-          "description": "开源文献管理，支持引用、笔记及插件扩展\nOpen-source literature management, supporting citations, notes, and plugin extensions",
-          "icon": "/assets/favicon_1760587959461.png",
-          "enabled": true
-        },
-        {
           "id": "1760587979592",
           "title": "SciSpace‌",
           "href": "https://www.scispace.com/",
@@ -94,6 +86,14 @@
               "href": "https://atlasti.com/",
               "description": "定性数据分析，支持扎根理论等研究方法\nQualitative data analysis, supporting research methods such as grounded theory",
               "icon": "/assets/favicon_1760587937896.svg",
+              "enabled": true
+            },
+            {
+              "id": "1760587950131",
+              "title": "Zotero 2025",
+              "href": "https://www.zotero.org/",
+              "description": "开源文献管理，支持引用、笔记及插件扩展\nOpen-source literature management, supporting citations, notes, and plugin extensions",
+              "icon": "/assets/favicon_1760587959461.png",
               "enabled": true
             }
           ]
