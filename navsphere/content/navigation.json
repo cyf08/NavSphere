@@ -187,6 +187,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b814ad46-7e55-420e-a8ce-385c28448b9b",
+          "title": "‌学术文献分析工具 Academic Literature Analysis Tools",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
