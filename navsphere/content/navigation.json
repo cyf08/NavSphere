@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1760587771697",
-          "title": "Consensus",
-          "href": "https://www.consensus.app/",
-          "description": "基于学术共识的文献检索与总结\nLiterature search and summary based on academic consensus.",
-          "icon": "/assets/favicon_1760587777797.png",
-          "enabled": true
-        },
-        {
           "id": "1760587798717",
           "title": "Litmaps Pro",
           "href": "https://www.litmaps.com/",
@@ -94,6 +86,14 @@
               "href": "https://www.scopus.com/",
               "description": "科研检索工具，提供文献来源和指标，支持可信数据溯源。\nA research search tool, offering literature sources and indicators, supporting traceability of reliable data.",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scopus.com",
+              "enabled": true
+            },
+            {
+              "id": "1760587771697",
+              "title": "Consensus",
+              "href": "https://www.consensus.app/",
+              "description": "基于学术共识的文献检索与总结\nLiterature search and summary based on academic consensus.",
+              "icon": "/assets/favicon_1760587777797.png",
               "enabled": true
             }
           ]
