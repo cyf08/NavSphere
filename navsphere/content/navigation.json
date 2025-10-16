@@ -107,14 +107,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1760588464439",
-          "title": "Gephi",
-          "href": "https://gephi.org/",
-          "description": "功能：开源网络可视化工具，支持社区发现、动态图分析及多种布局算法（ForceAtlas2等）。\nFunction: Open-source network visualization tool, supporting community discovery, dynamic graph analysis and various layout algorithms (such as ForceAtlas2, etc.).",
-          "icon": "/assets/favicon_1760588469986.png",
-          "enabled": true
-        },
-        {
           "id": "1760588501333",
           "title": "知乎直答 Zhihu Direct Answers",
           "href": "https://zhida.zhihu.com/",
@@ -203,6 +195,14 @@
               "href": "https://sites.google.com/site/netdrawsoftware/welcome",
               "description": "功能：社会网络分析软件，提供中心性分析、子群识别、角色分析及矩阵代数计算。\nFunction: Social network analysis software, providing centrality analysis, subgroup identification, role analysis and matrix algebra calculations.\n下载：需官网购买/试用\nDownload: Requires purchase/try-out through the official website. ‌",
               "icon": "/assets/favicon_1760588452977.ico",
+              "enabled": true
+            },
+            {
+              "id": "1760588464439",
+              "title": "Gephi",
+              "href": "https://gephi.org/",
+              "description": "功能：开源网络可视化工具，支持社区发现、动态图分析及多种布局算法（ForceAtlas2等）。\nFunction: Open-source network visualization tool, supporting community discovery, dynamic graph analysis and various layout algorithms (such as ForceAtlas2, etc.).",
+              "icon": "/assets/favicon_1760588469986.png",
               "enabled": true
             }
           ]
