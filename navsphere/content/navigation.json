@@ -310,6 +310,14 @@
               "description": "花瓣网,设计师寻找灵感的平台!这里汇聚海量高清创意图片与设计素材,通过智能采集工具助你高效整理灵感.无论是保存优质素材,规划设计方案,还是分享个人创意收藏,花瓣网都能满足设计师需求,让灵感采集与创作落地无缝衔接。",
               "icon": "/assets/favicon_1760590810187.png",
               "enabled": true
+            },
+            {
+              "id": "1760590818269",
+              "title": "Behance",
+              "href": "https://www.behance.net/",
+              "description": "访问 www.behance.net",
+              "icon": "/assets/favicon_1760590820366.png",
+              "enabled": true
             }
           ]
         }
