@@ -107,14 +107,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1760588194639",
-          "title": "Plantdata-KGMS",
-          "href": "https://www.plantdata.cn/",
-          "description": "提供千亿级知识存储能力的一站式知识图谱运营管理平台，支持时空知识存储、多模态数据存储及全生命周期管理（建模、编辑、融合、统计等）\nA one-stop knowledge graph operation and management platform with a billion-level knowledge storage capacity, supporting temporal knowledge storage, multi-modal data storage, and full lifecycle management (modeling, editing, integration, statistics, etc.)",
-          "icon": "/assets/favicon_1760588202376.png",
-          "enabled": true
-        },
-        {
           "id": "1760588223829",
           "title": "‌拓尔思安拓知识图谱平台‌ Tusix Anzao Knowledge Graph Platform",
           "href": "https://www.trs.com.cn/cpfw/rgzn/aiptfw/at_zstppt_/",
@@ -186,7 +178,16 @@
           "icon": "Network",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760588194639",
+              "title": "Plantdata-KGMS",
+              "href": "https://www.plantdata.cn/",
+              "description": "提供千亿级知识存储能力的一站式知识图谱运营管理平台，支持时空知识存储、多模态数据存储及全生命周期管理（建模、编辑、融合、统计等）\nA one-stop knowledge graph operation and management platform with a billion-level knowledge storage capacity, supporting temporal knowledge storage, multi-modal data storage, and full lifecycle management (modeling, editing, integration, statistics, etc.)",
+              "icon": "/assets/favicon_1760588202376.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "b814ad46-7e55-420e-a8ce-385c28448b9b",
