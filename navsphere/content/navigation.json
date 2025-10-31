@@ -570,6 +570,14 @@
               "description": "",
               "icon": "/assets/favicon_1761878184632.png",
               "enabled": true
+            },
+            {
+              "id": "1761878198017",
+              "title": "Crawl4AI",
+              "href": "https://github.com/unclecode/crawl4ai",
+              "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN - unclecode/crawl4ai",
+              "icon": "/assets/favicon_1761878200205.png",
+              "enabled": true
             }
           ]
         },
