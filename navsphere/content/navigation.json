@@ -470,6 +470,14 @@
               "description": "",
               "icon": "/assets/favicon_1761877656433.png",
               "enabled": true
+            },
+            {
+              "id": "1761877669213",
+              "title": "红瓦族库大师/Hongwa Master of the Treasury",
+              "href": "https://www.hwzuku.com/",
+              "description": "",
+              "icon": "/assets/favicon_1761877673327.ico",
+              "enabled": true
             }
           ]
         },
