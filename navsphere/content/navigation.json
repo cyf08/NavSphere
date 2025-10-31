@@ -578,6 +578,14 @@
               "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN - unclecode/crawl4ai",
               "icon": "/assets/favicon_1761878200205.png",
               "enabled": true
+            },
+            {
+              "id": "1761878215803",
+              "title": "Jina AI Reader API",
+              "href": "https://jina.ai/",
+              "description": "Best-in-class embeddings, rerankers, web reader, deepsearch, small language models. Search AI for multilingual and multimodal data.",
+              "icon": "/assets/favicon_1761878217256.png",
+              "enabled": true
             }
           ]
         },
