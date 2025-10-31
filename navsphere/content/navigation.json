@@ -486,6 +486,14 @@
               "description": "",
               "icon": "/assets/favicon_1761877700694.png",
               "enabled": true
+            },
+            {
+              "id": "1761877729485",
+              "title": "PDF24-creator",
+              "href": "https://tools.pdf24.org/zh/",
+              "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
+              "icon": "/assets/favicon_1761877730716.png",
+              "enabled": true
             }
           ]
         },
