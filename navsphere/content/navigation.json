@@ -554,6 +554,14 @@
               "description": "",
               "icon": "/assets/favicon_1761878163155.png",
               "enabled": true
+            },
+            {
+              "id": "1761878171928",
+              "title": "Dify: Leading Agentic Workflow Builder",
+              "href": "https://dify.ai/",
+              "description": "Unlock agentic workflow with Dify. Develop, deploy, and manage autonomous agents, RAG pipelines, and more for teams at any scale, effortlessly.",
+              "icon": "/assets/favicon_1761878173594.svg",
+              "enabled": true
             }
           ]
         },
