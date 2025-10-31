@@ -626,6 +626,14 @@
               "description": "Web scraping made easy. Collect data from any web pages within minutes using our no-code web crawler. Get the right data to drive your business forward. Start for Free Today!",
               "icon": "/assets/favicon_1761878272507.ico",
               "enabled": true
+            },
+            {
+              "id": "1761878282907",
+              "title": "ScrapeStorm",
+              "href": "https://www.scrapestorm.com/",
+              "description": "AI-Powered visual website scraper, which can be used to extract data from almost any websites without writing any code. Support all operating systems. Try it for free!",
+              "icon": "/assets/favicon_1761878285475.ico",
+              "enabled": true
             }
           ]
         },
