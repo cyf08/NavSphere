@@ -455,7 +455,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "745c8601-5118-45f0-8e70-0b03afcce528",
+          "title": "图纸生成",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
