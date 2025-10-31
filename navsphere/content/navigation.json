@@ -533,6 +533,15 @@
       ]
     },
     {
+      "id": "1761878036605",
+      "title": "案例研究 Case Study",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761878056336",
       "title": "AI与设计通用工具 AI and Design General Tools",
       "icon": "Settings",
@@ -1756,15 +1765,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1761878036605",
-      "title": "案例研究 Case Study",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
