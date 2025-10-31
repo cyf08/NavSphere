@@ -586,6 +586,14 @@
               "description": "Best-in-class embeddings, rerankers, web reader, deepsearch, small language models. Search AI for multilingual and multimodal data.",
               "icon": "/assets/favicon_1761878217256.png",
               "enabled": true
+            },
+            {
+              "id": "1761878226223",
+              "title": "Oxylabs AI Studio",
+              "href": "https://oxylabs.io/",
+              "description": "The best proxy service platform with 175M+ Residential and 2M Datacenter IP proxies. Extract public data from any website with ease!",
+              "icon": "/assets/favicon_1761878227845.png",
+              "enabled": true
             }
           ]
         },
