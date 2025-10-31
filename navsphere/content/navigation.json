@@ -502,6 +502,14 @@
               "description": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景。",
               "icon": "/assets/favicon_1761877744873.png",
               "enabled": true
+            },
+            {
+              "id": "1761877932158",
+              "title": "迅捷CAD转换器\t/ Quick CAD Converter",
+              "href": "https://app.xunjiecad.com/",
+              "description": "",
+              "icon": "/assets/favicon_1761877935317.png",
+              "enabled": true
             }
           ]
         },
