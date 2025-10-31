@@ -519,7 +519,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1761877953068",
+              "title": "Bidbag标袋云/ Bidbag Cloud",
+              "href": "https://bidbag.cloud/",
+              "description": "",
+              "icon": "/assets/favicon_1761877956061.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
