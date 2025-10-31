@@ -1756,6 +1756,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1761878056336",
+      "title": "AI与设计通用工具 AI and Design General Tools",
+      "icon": "Settings",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
