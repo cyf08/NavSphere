@@ -546,7 +546,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1761878159572",
+              "title": "Coze",
+              "href": "https://www.coze.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1761878163155.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "97744287-41e2-4273-872e-5246c129119c",
