@@ -602,6 +602,14 @@
               "description": "Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world&#039;s #1 web data platform.",
               "icon": "/assets/favicon_1761878238282.png",
               "enabled": true
+            },
+            {
+              "id": "1761878250923",
+              "title": "Import.io",
+              "href": "https://www.import.io/",
+              "description": "Import.io is an AI web scraping platform that transforms websites into structured, compliant data streams. Automate extraction with enterprise-grade AI.",
+              "icon": "/assets/favicon_1761878253046.png",
+              "enabled": true
             }
           ]
         },
