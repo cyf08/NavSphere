@@ -618,6 +618,14 @@
               "description": "访问 decodo.ai",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=decodo.ai",
               "enabled": true
+            },
+            {
+              "id": "1761878269792",
+              "title": "Octoparse 3.0",
+              "href": "https://www.octoparse.com/",
+              "description": "Web scraping made easy. Collect data from any web pages within minutes using our no-code web crawler. Get the right data to drive your business forward. Start for Free Today!",
+              "icon": "/assets/favicon_1761878272507.ico",
+              "enabled": true
             }
           ]
         },
