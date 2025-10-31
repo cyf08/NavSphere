@@ -539,7 +539,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "7c519f18-a901-404e-95a1-10ac8c8e196d",
+          "title": "数据采集：AI爬虫数据/Data Collection: AI Crawling Data",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1761878056336",
