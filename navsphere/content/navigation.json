@@ -462,7 +462,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1761877647759",
+              "title": "food4rhino",
+              "href": "https://www.food4rhino.com/en",
+              "description": "",
+              "icon": "/assets/favicon_1761877656433.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "5591d0ba-2e0c-4525-a351-725935199fbe",
