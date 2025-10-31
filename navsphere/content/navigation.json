@@ -1663,6 +1663,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761877531856",
+      "title": "设计图纸 Design Drawings",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
