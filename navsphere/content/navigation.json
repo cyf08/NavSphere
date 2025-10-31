@@ -634,6 +634,14 @@
               "description": "AI-Powered visual website scraper, which can be used to extract data from almost any websites without writing any code. Support all operating systems. Try it for free!",
               "icon": "/assets/favicon_1761878285475.ico",
               "enabled": true
+            },
+            {
+              "id": "1761878297017",
+              "title": "Browse AI",
+              "href": "https://www.browse.ai/",
+              "description": "Easily scrape web data, monitor webpage changes, and turn websites into APIs with Browse AI.",
+              "icon": "/assets/favicon_1761878298348.png",
+              "enabled": true
             }
           ]
         },
