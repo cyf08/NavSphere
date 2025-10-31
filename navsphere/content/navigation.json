@@ -594,6 +594,14 @@
               "description": "The best proxy service platform with 175M+ Residential and 2M Datacenter IP proxies. Extract public data from any website with ease!",
               "icon": "/assets/favicon_1761878227845.png",
               "enabled": true
+            },
+            {
+              "id": "1761878236502",
+              "title": "Bright Data AI Crawler",
+              "href": "https://brightdata.com/",
+              "description": "Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world&#039;s #1 web data platform.",
+              "icon": "/assets/favicon_1761878238282.png",
+              "enabled": true
             }
           ]
         },
