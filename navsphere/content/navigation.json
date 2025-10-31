@@ -610,6 +610,14 @@
               "description": "Import.io is an AI web scraping platform that transforms websites into structured, compliant data streams. Automate extraction with enterprise-grade AI.",
               "icon": "/assets/favicon_1761878253046.png",
               "enabled": true
+            },
+            {
+              "id": "1761878260739",
+              "title": "Decodo",
+              "href": "https://decodo.ai/",
+              "description": "访问 decodo.ai",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=decodo.ai",
+              "enabled": true
             }
           ]
         },
